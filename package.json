@@ -1,0 +1,26 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "This is landing ",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^4.0.0-alpha.3"
+  },
+  "devDependencies": {
+    "pug": "^2.0.0-rc.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PussyKing/Landiing.git"
+  },
+  "author": "Arthur Bondarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PussyKing/Landiing/issues"
+  },
+  "homepage": "https://github.com/PussyKing/Landiing#readme"
+}
